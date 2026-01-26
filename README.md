@@ -1,12 +1,12 @@
 # 👋 Katiaallz
 
-🎮 FiveM Developer  
-💻 Focused on Java, JavaScript and Lua  
+🎮 Desenvolvedor FiveM
+💻 Focado em Java, JavaScript e Lua
 
-I develop systems and scripts for GTA RP servers, focusing on performance,
-organization and clean code.
+Desenvolvo sistemas e scripts para servidores de GTA RP, com foco em desempenho,
+organização e código limpo.
 
----
+
 
 ## 💻 Tech Stack
 
@@ -17,15 +17,19 @@ organization and clean code.
 
 ---
 
-## 🚀 What I Do
+🚀 O que eu faço
 
-- FiveM scripts (client & server)
-- JavaScript systems
-- Lua systems (vRP)
-- NUI interfaces
-- Optimization and fixes for GTA RP servers
+Scripts para FiveM (client & server)
 
----
+Sistemas em JavaScript
+
+Sistemas em Lua (vRP)
+
+Interfaces NUI
+
+Otimização e correções para servidores de GTA RP
+
+
 
 ## 📊 GitHub Stats
 
