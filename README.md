@@ -36,8 +36,8 @@ organization and clean code.
 
 ## 📫 Contact
 
-- Discord: seu_discord
-- Instagram: seu_instagram
+- Discord:カティアオールズ
+- Instagram: https://www.instagram.com/katiaallz/
 
 
 
