@@ -2,10 +2,10 @@
 
 🎮 Desenvolvedor FiveM
 💻 Focado em Java, JavaScript e Lua
-
+---
 Desenvolvo sistemas e scripts para servidores de GTA RP, com foco em desempenho,
 organização e código limpo.
-
+---
 
 
 ## 💻 Tech Stack
@@ -18,17 +18,17 @@ organização e código limpo.
 ---
 
 🚀 O que eu faço
-
+---
 Scripts para FiveM (client & server)
-
+---
 Sistemas em JavaScript
-
+---
 Sistemas em Lua (vRP)
-
+---
 Interfaces NUI
-
+---
 Otimização e correções para servidores de GTA RP
-
+---
 
 
 ## 📊 GitHub Stats
