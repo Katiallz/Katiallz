@@ -30,7 +30,7 @@ organization and clean code.
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Katiallz&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katiallz&layout=compact&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Katiallz&layout=compact&theme=dark&hide_border=true)
 
 ---
 
