@@ -1,4 +1,4 @@
-# 👋 About Me
+# 👋 Katiaallz
 
 🎮 FiveM Developer  
 💻 Focused on Java, JavaScript and Lua  
@@ -29,8 +29,8 @@ organization and clean code.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=katiaallz&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katiaallz&layout=compact&theme=dark)
 
 ---
 
