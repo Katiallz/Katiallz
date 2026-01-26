@@ -39,6 +39,7 @@ organization and clean code.
 - Discord:カティアオールズ
 - Instagram: https://www.instagram.com/katiaallz/
 
+![Snake animation](https://raw.githubusercontent.com/Katiallz/Katiallz/output/github-contribution-grid-snake-dark.svg)
 
 
 <!--
