@@ -29,8 +29,8 @@ organization and clean code.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=katiaallz&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katiaallz&layout=compact&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Katiallz&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katiallz&layout=compact&theme=dark)
 
 ---
 
