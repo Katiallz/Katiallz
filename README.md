@@ -1,5 +1,4 @@
 # 💫 About Me:
----
 🎮 Desenvolvedor FiveM
 💻 Focado em Java, JavaScript e Lua
 
