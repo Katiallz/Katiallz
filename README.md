@@ -38,20 +38,18 @@ Otimização e correções para servidores de GTA RP
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Katiallz&layout=compact&theme=dark&hide_border=true)
 
 ---
-
-## 📫 Contact
-
-- Discord:カティアオールズ
-- Instagram: https://www.instagram.com/katiaallz/
-
-![Snake animation](https://raw.githubusercontent.com/Katiallz/Katiallz/output/github-contribution-grid-snake-dark.svg)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raphagreb/raphagreb/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raphagreb/raphagreb/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/raphagreb/raphagreb/output/github-snake.svg" />
 </picture>
-<!--
+
+- Discord:カティアオールズ
+- Instagram: https://www.instagram.com/katiaallz/
+
+
+
+
 **Katiallz/Katiallz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
