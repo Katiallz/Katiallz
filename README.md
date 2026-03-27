@@ -33,16 +33,10 @@ Otimização e correções para servidores de GTA RP
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Katiallz&show_icons=true&theme=dark&hide_border=true"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Katiallz&layout=compact&theme=dark&hide_border=true"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Katiallz&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Katiallz&layout=compact&theme=dark&hide_border=true"/>
+</div>
 
 ---
 <picture>
