@@ -4,7 +4,7 @@
 
 Sou formado em **Gestão da Tecnologia da Informação** e desenvolvo projetos com foco em aplicações web, automação e sistemas cliente-servidor.
 
-Tenho experiência prática com **JavaScript, Lua, Node.js, TypeScript, Svelte e MySQL**, além de vivência profissional em suporte técnico, diagnóstico de problemas e atendimento a clientes. Atualmente busco uma oportunidade **remota** como Desenvolvedor de Software Júnior ou Trainee.
+Tenho experiência prática com **JavaScript, Lua, Node.js, TypeScript, Svelte e MySQL**, além de vivência profissional em suporte técnico, diagnóstico de problemas e atendimento a clientes. Estou aberto a oportunidades como **Desenvolvedor de Software Júnior ou Trainee**, em modelos remoto, híbrido ou presencial.
 
 ## Tecnologias
 
