@@ -32,14 +32,6 @@ Interface de loja integrada ao painel mecânico, desenvolvida com Svelte, TypeSc
 
 Aplicação em Node.js para gerar e compactar backups periódicos de bancos MySQL, com webhook opcional, variáveis de ambiente e tratamento de erros.
 
-## Atividade no GitHub
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Katiallz/Katiallz/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Katiallz/Katiallz/output/github-contribution-grid-snake.svg" />
-  <img alt="Animação das contribuições de Gabriel no GitHub" src="https://raw.githubusercontent.com/Katiallz/Katiallz/output/github-contribution-grid-snake.svg" />
-</picture>
-
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/gabriel-augusto-viana-da-silva-a0352520a/)
