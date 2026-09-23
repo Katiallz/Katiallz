@@ -1,54 +1,46 @@
-# 💫 About Me:
-🎮 Desenvolvedor FiveM
-💻 Focado em Java, JavaScript e Lua
+# Olá, eu sou Gabriel Augusto 👋
 
-Desenvolvo sistemas e scripts para servidores de GTA RP, com foco em desempenho,
-organização e código limpo.
+## Desenvolvedor de Software Júnior
 
+Sou formado em **Gestão da Tecnologia da Informação** e desenvolvo projetos com foco em aplicações web, automação e sistemas cliente-servidor.
 
+Tenho experiência prática com **JavaScript, Lua, Node.js, TypeScript, Svelte e MySQL**, além de vivência profissional em suporte técnico, diagnóstico de problemas e atendimento a clientes. Atualmente busco uma oportunidade **remota** como Desenvolvedor de Software Júnior ou Trainee.
 
-## 💻 Tech Stack
+## Tecnologias
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![FiveM](https://img.shields.io/badge/FiveM-GTA_RP-red?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Lua](https://img.shields.io/badge/Lua-20232A?style=for-the-badge&logo=lua&logoColor=5C7CFA)
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Svelte](https://img.shields.io/badge/Svelte-20232A?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
 
----
+## Projetos em destaque
 
-🚀 O que eu faço
----
-Scripts para FiveM (client & server)
+### [Painel Mecânico para FiveM](https://github.com/Katiallz/Painel-Mecanico-Fivem)
 
-Sistemas em JavaScript
+Sistema para gerenciamento de oficinas, membros, cargos, permissões, atendimentos e transações. Desenvolvido com Lua, JavaScript, HTML, CSS e MySQL, utilizando arquitetura cliente-servidor.
 
-Sistemas em Lua (vRP)
+### [Loja de Mecânica com Svelte](https://github.com/Katiallz/Fivem-Mechanicshop)
 
-Interfaces NUI
+Interface de loja integrada ao painel mecânico, desenvolvida com Svelte, TypeScript, JavaScript, Vite e Lua.
 
-Otimização e correções para servidores de GTA RP
+### [Automação de backup MySQL](https://github.com/Katiallz/Backup-Banco-de-dados)
 
----
+Aplicação em Node.js para gerar e compactar backups periódicos de bancos MySQL, com webhook opcional, variáveis de ambiente e tratamento de erros.
 
+## Atividade no GitHub
 
-## 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Katiallz&show_icons=true&theme=dark&hide_border=true"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Katiallz&layout=compact&theme=dark&hide_border=true"/>
-    </td>
-  </tr>
-</table>
-
----
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raphagreb/raphagreb/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raphagreb/raphagreb/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/raphagreb/raphagreb/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Katiallz/Katiallz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Katiallz/Katiallz/output/github-contribution-grid-snake.svg" />
+  <img alt="Animação das contribuições de Gabriel no GitHub" src="https://raw.githubusercontent.com/Katiallz/Katiallz/output/github-contribution-grid-snake.svg" />
 </picture>
 
-- Discord:カティアオールズ
-- Instagram: https://www.instagram.com/katiaallz/
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/gabriel-augusto-viana-da-silva-a0352520a/)
+- [GitHub](https://github.com/Katiallz)
