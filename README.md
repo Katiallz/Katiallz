@@ -43,6 +43,7 @@ Script de interações complexas in-game, onde jogadores vendem itens pelo mapa.
 
 👉 **[CLIQUE AQUI PARA VER O MEU PORTFÓLIO COMPLETO](https://github.com/Katiallz/Portifolio-FiveM)**
 
+* 🚀 **Katia DevLab (Plataforma E-Learning):** Plataforma web serverless para cursos e assinaturas com integração de pagamentos e infraestrutura Cloudflare Edge.
 * 🤖 **FiveM AI Support Bot & Dashboard:** Bot de Discord com Inteligência Artificial (Google Gemini API) para atendimento ao cliente 24/7. Integra painel web administrativo em Flask/Python.
 * 🏥 **Painel Médico Avançado:** Sistema de gerenciamento hospitalar com controle de funcionários, prontuários de pacientes e balanço financeiro.
 * 🚓 **Painel Policial (MDT):** Terminal inteligente corporativo para a polícia gerenciar equipe de oficiais, banco e permissões avançadas.
