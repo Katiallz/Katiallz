@@ -2,7 +2,7 @@
 
 ## Desenvolvedor Júnior — Soluções Assistidas por IA (Vibe Coding) & Automação
 
-Este perfil reúne projetos práticos de aplicações web, automação e sistemas cliente-servidor construídos por meio de **Desenvolvimento Assistido por IA (Vibe Coding)** e **Engenharia de Prompt**.
+**Desenvolvimento Assistido por IA (Vibe Coding)** e **Engenharia de Prompt**.
 
 Utilizo ferramentas de Inteligência Artificial generativa para gerar, estruturar e iterar códigos em **JavaScript, Lua, Python, Node.js, TypeScript, Svelte e MySQL**, concentrando minha atuação na definição das regras de negócio, arquitetura funcional, integração de sistemas, validação prática e depuração de erros — **sem foco em memorização de sintaxe ou codificação manual tradicional**. Também possuo sólida vivência profissional em suporte técnico, diagnóstico de problemas e atendimento a clientes.
 
